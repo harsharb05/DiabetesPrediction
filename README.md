@@ -13,7 +13,6 @@ This Python project is aimed at predicting diabetes using machine learning model
 ## Requirements
 
 To run this project, you need to install the following dependencies:
-
 - Python 3.x
 - `pandas`
 - `scikit-learn`
